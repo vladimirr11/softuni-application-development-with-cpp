@@ -1,0 +1,3 @@
+C:/Users/user/C++Projects/Application-Development-with-C++/SDL2_Runtime/build/CMakeFiles/sdl2_runtime.dir
+C:/Users/user/C++Projects/Application-Development-with-C++/SDL2_Runtime/build/CMakeFiles/edit_cache.dir
+C:/Users/user/C++Projects/Application-Development-with-C++/SDL2_Runtime/build/CMakeFiles/rebuild_cache.dir
