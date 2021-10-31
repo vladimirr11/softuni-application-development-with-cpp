@@ -1,0 +1,17 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f Makefile cmTC_2b1cf/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_2b1cf.dir\build.make CMakeFiles/cmTC_2b1cf.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2b1cf.dir/CheckIncludeFile.cxx.obj
+C:\MinGW\bin\mingw32-g++.exe    -o CMakeFiles\cmTC_2b1cf.dir\CheckIncludeFile.cxx.obj -c C:\Users\user\C++Projects\Application-Development-with-C++\Input_Events\build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+C:\Users\user\C++Projects\Application-Development-with-C++\Input_Events\build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx:1:10: fatal error: pthread.h: No such file or directory
+    1 | #include <pthread.h>
+      |          ^~~~~~~~~~~
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_2b1cf.dir\build.make:77: CMakeFiles/cmTC_2b1cf.dir/CheckIncludeFile.cxx.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_2b1cf/fast] Error 2
+
+
+

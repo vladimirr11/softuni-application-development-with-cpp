@@ -1,0 +1,3 @@
+C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build/CMakeFiles/rebuild_cache.dir
+C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build/CMakeFiles/input_events.dir
+C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build/CMakeFiles/edit_cache.dir

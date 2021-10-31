@@ -1,0 +1,52 @@
+[
+{
+  "directory": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/input_events.dir/includes_CXX.rsp -g -Wall -Wextra -Werror -Wundef -Wuninitialized -Wreorder -Wshadow -Wpointer-arith -Wcast-align -Wcast-qual -Wconversion -Wunused-parameter -Wlogical-op -Wdouble-promotion -Wnon-virtual-dtor -Woverloaded-virtual -Wduplicated-cond -Wduplicated-branches -Wnull-dereference -std=c++17 -o CMakeFiles\\input_events.dir\\engine\\Engine.cpp.obj -c C:\\Users\\user\\C++Projects\\Application-Development-with-C++\\Input_Events\\engine\\Engine.cpp",
+  "file": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/engine/Engine.cpp"
+},
+{
+  "directory": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/input_events.dir/includes_CXX.rsp -g -Wall -Wextra -Werror -Wundef -Wuninitialized -Wreorder -Wshadow -Wpointer-arith -Wcast-align -Wcast-qual -Wconversion -Wunused-parameter -Wlogical-op -Wdouble-promotion -Wnon-virtual-dtor -Woverloaded-virtual -Wduplicated-cond -Wduplicated-branches -Wnull-dereference -std=c++17 -o CMakeFiles\\input_events.dir\\sdl_utils\\SDLLoader.cpp.obj -c C:\\Users\\user\\C++Projects\\Application-Development-with-C++\\Input_Events\\sdl_utils\\SDLLoader.cpp",
+  "file": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/sdl_utils/SDLLoader.cpp"
+},
+{
+  "directory": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/input_events.dir/includes_CXX.rsp -g -Wall -Wextra -Werror -Wundef -Wuninitialized -Wreorder -Wshadow -Wpointer-arith -Wcast-align -Wcast-qual -Wconversion -Wunused-parameter -Wlogical-op -Wdouble-promotion -Wnon-virtual-dtor -Woverloaded-virtual -Wduplicated-cond -Wduplicated-branches -Wnull-dereference -std=c++17 -o CMakeFiles\\input_events.dir\\sdl_utils\\MonitorWindow.cpp.obj -c C:\\Users\\user\\C++Projects\\Application-Development-with-C++\\Input_Events\\sdl_utils\\MonitorWindow.cpp",
+  "file": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/sdl_utils/MonitorWindow.cpp"
+},
+{
+  "directory": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/input_events.dir/includes_CXX.rsp -g -Wall -Wextra -Werror -Wundef -Wuninitialized -Wreorder -Wshadow -Wpointer-arith -Wcast-align -Wcast-qual -Wconversion -Wunused-parameter -Wlogical-op -Wdouble-promotion -Wnon-virtual-dtor -Woverloaded-virtual -Wduplicated-cond -Wduplicated-branches -Wnull-dereference -std=c++17 -o CMakeFiles\\input_events.dir\\sdl_utils\\Texture.cpp.obj -c C:\\Users\\user\\C++Projects\\Application-Development-with-C++\\Input_Events\\sdl_utils\\Texture.cpp",
+  "file": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/sdl_utils/Texture.cpp"
+},
+{
+  "directory": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/input_events.dir/includes_CXX.rsp -g -Wall -Wextra -Werror -Wundef -Wuninitialized -Wreorder -Wshadow -Wpointer-arith -Wcast-align -Wcast-qual -Wconversion -Wunused-parameter -Wlogical-op -Wdouble-promotion -Wnon-virtual-dtor -Woverloaded-virtual -Wduplicated-cond -Wduplicated-branches -Wnull-dereference -std=c++17 -o CMakeFiles\\input_events.dir\\sdl_utils\\InputEvent.cpp.obj -c C:\\Users\\user\\C++Projects\\Application-Development-with-C++\\Input_Events\\sdl_utils\\InputEvent.cpp",
+  "file": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/sdl_utils/InputEvent.cpp"
+},
+{
+  "directory": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/input_events.dir/includes_CXX.rsp -g -Wall -Wextra -Werror -Wundef -Wuninitialized -Wreorder -Wshadow -Wpointer-arith -Wcast-align -Wcast-qual -Wconversion -Wunused-parameter -Wlogical-op -Wdouble-promotion -Wnon-virtual-dtor -Woverloaded-virtual -Wduplicated-cond -Wduplicated-branches -Wnull-dereference -std=c++17 -o CMakeFiles\\input_events.dir\\utils\\drawing\\Point.cpp.obj -c C:\\Users\\user\\C++Projects\\Application-Development-with-C++\\Input_Events\\utils\\drawing\\Point.cpp",
+  "file": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/utils/drawing/Point.cpp"
+},
+{
+  "directory": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/input_events.dir/includes_CXX.rsp -g -Wall -Wextra -Werror -Wundef -Wuninitialized -Wreorder -Wshadow -Wpointer-arith -Wcast-align -Wcast-qual -Wconversion -Wunused-parameter -Wlogical-op -Wdouble-promotion -Wnon-virtual-dtor -Woverloaded-virtual -Wduplicated-cond -Wduplicated-branches -Wnull-dereference -std=c++17 -o CMakeFiles\\input_events.dir\\utils\\drawing\\Rectangle.cpp.obj -c C:\\Users\\user\\C++Projects\\Application-Development-with-C++\\Input_Events\\utils\\drawing\\Rectangle.cpp",
+  "file": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/utils/drawing/Rectangle.cpp"
+},
+{
+  "directory": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/input_events.dir/includes_CXX.rsp -g -Wall -Wextra -Werror -Wundef -Wuninitialized -Wreorder -Wshadow -Wpointer-arith -Wcast-align -Wcast-qual -Wconversion -Wunused-parameter -Wlogical-op -Wdouble-promotion -Wnon-virtual-dtor -Woverloaded-virtual -Wduplicated-cond -Wduplicated-branches -Wnull-dereference -std=c++17 -o CMakeFiles\\input_events.dir\\utils\\thread\\ThreadUtils.cpp.obj -c C:\\Users\\user\\C++Projects\\Application-Development-with-C++\\Input_Events\\utils\\thread\\ThreadUtils.cpp",
+  "file": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/utils/thread/ThreadUtils.cpp"
+},
+{
+  "directory": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/input_events.dir/includes_CXX.rsp -g -Wall -Wextra -Werror -Wundef -Wuninitialized -Wreorder -Wshadow -Wpointer-arith -Wcast-align -Wcast-qual -Wconversion -Wunused-parameter -Wlogical-op -Wdouble-promotion -Wnon-virtual-dtor -Woverloaded-virtual -Wduplicated-cond -Wduplicated-branches -Wnull-dereference -std=c++17 -o CMakeFiles\\input_events.dir\\utils\\time\\Time.cpp.obj -c C:\\Users\\user\\C++Projects\\Application-Development-with-C++\\Input_Events\\utils\\time\\Time.cpp",
+  "file": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/utils/time/Time.cpp"
+},
+{
+  "directory": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/input_events.dir/includes_CXX.rsp -g -Wall -Wextra -Werror -Wundef -Wuninitialized -Wreorder -Wshadow -Wpointer-arith -Wcast-align -Wcast-qual -Wconversion -Wunused-parameter -Wlogical-op -Wdouble-promotion -Wnon-virtual-dtor -Woverloaded-virtual -Wduplicated-cond -Wduplicated-branches -Wnull-dereference -std=c++17 -o CMakeFiles\\input_events.dir\\main.cpp.obj -c C:\\Users\\user\\C++Projects\\Application-Development-with-C++\\Input_Events\\main.cpp",
+  "file": "C:/Users/user/C++Projects/Application-Development-with-C++/Input_Events/main.cpp"
+}
+]
