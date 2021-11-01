@@ -1,0 +1,3 @@
+C:/Users/user/C++Projects/Application-Development-with-C++/Hardware_Rendering/build/CMakeFiles/hardware_rendering.dir
+C:/Users/user/C++Projects/Application-Development-with-C++/Hardware_Rendering/build/CMakeFiles/edit_cache.dir
+C:/Users/user/C++Projects/Application-Development-with-C++/Hardware_Rendering/build/CMakeFiles/rebuild_cache.dir
