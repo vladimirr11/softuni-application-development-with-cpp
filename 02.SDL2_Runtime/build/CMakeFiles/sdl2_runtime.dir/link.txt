@@ -1,3 +1,0 @@
-C:\cmake\cmake-3.21.3-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\sdl2_runtime.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\sdl2_runtime.dir/objects.a @CMakeFiles\sdl2_runtime.dir\objects1.rsp
-C:\MinGW\bin\mingw32-g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\sdl2_runtime.dir/objects.a -Wl,--no-whole-archive -o sdl2_runtime.exe -Wl,--out-implib,libsdl2_runtime.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sdl2_runtime.dir\linklibs.rsp
