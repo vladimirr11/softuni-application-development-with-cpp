@@ -1,3 +1,0 @@
-C:\cmake\cmake-3.21.3-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\hardware_rendering.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\hardware_rendering.dir/objects.a @CMakeFiles\hardware_rendering.dir\objects1.rsp
-C:\MinGW\bin\mingw32-g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\hardware_rendering.dir/objects.a -Wl,--no-whole-archive -o hardware_rendering.exe -Wl,--out-implib,libhardware_rendering.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hardware_rendering.dir\linklibs.rsp
