@@ -1,3 +1,0 @@
-C:/Users/user/C++Projects/Application-Development-with-C++/Hello_SDL2_World/build/CMakeFiles/hello_sdl2_world.dir
-C:/Users/user/C++Projects/Application-Development-with-C++/Hello_SDL2_World/build/CMakeFiles/edit_cache.dir
-C:/Users/user/C++Projects/Application-Development-with-C++/Hello_SDL2_World/build/CMakeFiles/rebuild_cache.dir

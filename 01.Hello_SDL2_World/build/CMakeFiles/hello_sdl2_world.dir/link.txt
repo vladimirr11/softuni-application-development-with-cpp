@@ -1,3 +1,0 @@
-C:\cmake\cmake-3.21.3-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\hello_sdl2_world.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\hello_sdl2_world.dir/objects.a @CMakeFiles\hello_sdl2_world.dir\objects1.rsp
-C:\MinGW\bin\mingw32-g++.exe -Wl,--whole-archive CMakeFiles\hello_sdl2_world.dir/objects.a -Wl,--no-whole-archive -o hello_sdl2_world.exe -Wl,--out-implib,libhello_sdl2_world.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hello_sdl2_world.dir\linklibs.rsp
